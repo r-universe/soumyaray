@@ -5,3 +5,6 @@
 [submodule "air"]
 	path = air
 	url = https://github.com/soumyaray/air
+[submodule "result"]
+	path = result
+	url = https://github.com/soumyaray/result
